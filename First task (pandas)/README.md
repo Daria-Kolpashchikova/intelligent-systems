@@ -1,5 +1,4 @@
-Описание задания
-Загрузить данные в pandas по url=https://raw.githubusercontent.com/justmarkham/DAT8/master/data/chipotle.tsv
+Описание задания: загрузить данные в pandas по url=https://raw.githubusercontent.com/justmarkham/DAT8/master/data/chipotle.tsv
 1. Вывести: кол-во наблюдений в датасете
 2. Вывести названия столбцов
 3. Определить самую частую позицию (item) в заказе
